@@ -7,7 +7,7 @@ Full Stack Software Developer
 I'm a 28 years old.
 I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
-I am also a student at [Fametro](http://www.unifametro.edu.br).
+I am also a student.
 
 * 🌍  I'm based in Ceará, Brazil
 * ✉️  You can contact me at [jsilvardg@outlook.com](mailto:jsilvardg@outlook.com)
