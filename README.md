@@ -49,9 +49,3 @@ src="https://img.shields.io/github/followers/Jeff-Rdg" /></a>
 ### Socials
 
 <p align="left"><a href="https://www.github.com/Jeff-Rdg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jrodrigues-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Jeff-Rdg"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jeff-rdg&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
