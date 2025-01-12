@@ -4,12 +4,11 @@ Hi 👋 My name is Jefferson
 Backend Software Developer
 -----------------------------
 
-I'm a 29 years old.
+I'm a 30 years old.
 I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
 * 🌍  I'm based in Ceará, Brazil
 * ✉️  You can contact me at [jsilvardg@outlook.com](mailto:jsilvardg@outlook.com)
-* 🚀  I'm currently working on [Fitbank](https://fitbank.com.br/)
 * 🧠  I'm learning Golang, Unit Tests and C# programming language
 * ⚡  I love sports and my favorite is bodybuilding.
 
