@@ -7,7 +7,6 @@ Backend Software Developer
 * 🌍  I'm based in Ceará, Brazil
 * ✉️  You can contact me at [jsilvardg@outlook.com](mailto:jsilvardg@outlook.com)
 * 🧠  I'm learning Golang, Unit Tests and C# programming language
-* ⚡  I love sports and my favorite is bodybuilding.
 
 <a href="https://www.github.com/Jeff-Rdg" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jeff-Rdg" /></a>
